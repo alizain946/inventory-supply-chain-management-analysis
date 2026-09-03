@@ -157,7 +157,15 @@ This project demonstrates practical skills in:
 
 **Ali Zain**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
+**Data Analyst | Python | SQL | PostgreSQL | Power BI | Excel**
+
+**📧 Gmail:** [alizain.analyst@gmail.com](mailto:alizain.analyst@gmail.com)
+
+**📱 WhatsApp:** [+92 3269701669](https://wa.me/923269701669)
+
+**🔗 LinkedIn:** [Ali Zain](https://www.linkedin.com/in/ali-zain-203702288/)
+
+**💻 GitHub:** [alizain946](https://github.com/alizain946)
 
 ---
 
